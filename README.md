@@ -12,7 +12,7 @@ files:
 6) screen_shot.png : screen shot of live detection
 7) hasrcasecade_face_frontage_default.xml : this file used to detect face shape on live screen
 
-Thank you
-Ashish
-linkedin : https://www.linkedin.com/in/ashishbarvaliya/
-resume :https://drive.google.com/drive/u/0/folders/1UHBqfC4jcmNYe7L8YK0_Y9kpuXLBkNta
+Thank you.  
+Ashish  
+linkedin : https://www.linkedin.com/in/ashishbarvaliya/  
+resume :https://drive.google.com/drive/u/0/folders/1UHBqfC4jcmNYe7L8YK0_Y9kpuXLBkNta  
