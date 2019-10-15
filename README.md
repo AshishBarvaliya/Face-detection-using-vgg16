@@ -1,4 +1,4 @@
-# Face-detection-using-vgg19
+# Face-detection-using-vgg16
 face detection using tensorflow
 
 files:  
