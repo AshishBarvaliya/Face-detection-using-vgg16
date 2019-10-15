@@ -35,7 +35,7 @@ please follow below step to make detection.
     9) save the model as 'Final_Model_Face.h5' (this file will be used in live detection)
     Note: if you got any error then check your path or module that you installed.
 5) open live_face_detection.py on spyder.
-    Code explanation:
+    - Code explanation:
     1) importing libraries.
     2) read the model 'Final_Model_Face.h5'
     3) Make sure your webcam is working.
