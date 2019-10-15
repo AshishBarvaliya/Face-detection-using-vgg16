@@ -6,17 +6,17 @@ Created on Sat Oct 12 14:21:09 2019
 """
 
 from PIL import Image
-from tensorflow.keras.applications.vgg16 import preprocess_input
+from keras.applications.vgg16 import preprocess_input
 import base64
 from io import BytesIO
 import json
 import random
 import cv2
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 import numpy as np
 
 
-from tensorflow.keras.preprocessing import image
+from keras.preprocessing import image
 
 model = load_model('Final_Model_Face.h5')
 
