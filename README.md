@@ -48,4 +48,3 @@ please follow below step to make detection.
 Thank you.  
 Ashish  
 linkedin : https://www.linkedin.com/in/ashishbarvaliya/  
-resume :https://drive.google.com/drive/u/0/folders/1UHBqfC4jcmNYe7L8YK0_Y9kpuXLBkNta  
