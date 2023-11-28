@@ -16,12 +16,12 @@ Project Overview: Face Detection using VGG16 and TensorFlow
 4) Python(3.7.7) 
 5) Anaconda(4.7.11) 
 
-Setup Instructions:
+### Setup Instructions:
 1) Download the entire repository.
 2) Use your dataset.
 3) Open and run all cells in face_detection.ipynb using Jupyter Notebook.
 
-###Notebook Workflow:
+### Notebook Workflow:
 - Import necessary libraries.
 - Define variables (e.g., image_size, train/test paths).
 - Download and integrate VGG16.
@@ -29,7 +29,7 @@ Setup Instructions:
 - Test the model using a sample image.
 - Save the model as 'Final_Model_Face.h5'.
 
-###Live Detection (live_face_detection.py):
+### Live Detection (live_face_detection.py):
 
 - Import libraries and load 'Final_Model_Face.h5'.
 - Ensure webcam functionality.
